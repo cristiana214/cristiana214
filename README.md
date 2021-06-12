@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ `Not a Design person` but I can be your friend with it comes to ```Back-end/FrontEnd Stack``` and ```Server Management```
+- ⚡ `Not a Design person` but I can be your friend with it comes to ```BackEnd/FrontEnd Stack``` and ```Server Management```
 
 <!--
 **cristiana214/cristiana214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
