@@ -2,6 +2,14 @@
 
 - ⚡ `Not a Design person` but I can be your friend when it comes to ```BackEnd/FrontEnd Stack``` and ```Server Management```
 
+#### `Adopt quickly, deploy quickly, fail quickly, adjust quickly. `
+- 💬 The only way to really know ``if a system design works in the real world is to build it, deploy it for real applications, and see where it falls short.``
+
+
+
+- 💬 ``Code is written once. Then it’s read, debugged, refactored, and scaled constantly.``
+We’re always under the pressure of deadlines in software development. Regardless, it’s ``important to use coding best practices`` to help ensure better quality that can help us maintain and scale later on.
+
 <!--
 **cristiana214/cristiana214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
