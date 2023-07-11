@@ -8,7 +8,7 @@
 
 
 - 💬 **``Code is written once. Then it’s read, debugged, refactored, and scaled constantly.``**
-We’re always under the pressure of deadlines in software development. Regardless, it’s **``important to use coding best practices``** to help ensure better quality that can help us maintain and scale later on.
+We’re always under the pressure of deadlines in software development. Regardless, it’s [**``important to use coding best practices``**](https://gist.github.com/cristiana214/341abe53f8f1a32ff9d31ad6281de81a) to help ensure better quality that can help us maintain and scale later on.
 
 <!--
 **cristiana214/cristiana214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
