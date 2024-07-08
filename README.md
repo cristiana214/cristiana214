@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋   <img src="https://komarev.com/ghpvc/?username=cristiana214&style=flat-square" align="center" />
 
 - ⚡ **`Not a Design person`** but I can be your friend when it comes to  **```BackEnd/FrontEnd Stack```** and **```AWS Server Management```**
 
@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=cristiana214&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+
